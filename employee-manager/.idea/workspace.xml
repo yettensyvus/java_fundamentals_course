@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dd67c17-646f-40c5-a97f-23e65d1d578d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rq7zEBOjrMVvFfqNcUAPkTKAKl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="sql.rename.search.for.storage.occurrences" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Vaadin_CRUD" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Vaadin_CRUD" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Vaadin_CRUD" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="crud.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dd67c17-646f-40c5-a97f-23e65d1d578d" name="Default Changelist" comment="" />
+      <created>1619692026830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619692026830</updated>
+      <workItem from="1619692034279" duration="5263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619696588411">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1619696588411" />
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1619697318003">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1619697318003" />
+    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1619697318003">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1619697318003" />
+    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1619697318002">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1619697318002" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1619697318003">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1619697318003" />
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1619697318005">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.30.1366.738@0.30.1366.738" timestamp="1619697318005" />
+    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1619697318004">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.center/0.30.1366.738@0.30.1366.738" timestamp="1619697318004" />
+    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1619697318004">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.left/0.30.1366.738@0.30.1366.738" timestamp="1619697318004" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1619697318004">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.right/0.30.1366.738@0.30.1366.738" timestamp="1619697318004" />
+    <state x="339" y="180" key="run.anything.popup" timestamp="1619694306937">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="339" y="180" key="run.anything.popup/0.30.1366.738@0.30.1366.738" timestamp="1619694306937" />
+  </component>
+</project>
